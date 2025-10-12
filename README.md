@@ -19,6 +19,6 @@ ELSE
 END IF
 
 ###FlowChart : 
-![alt text](<img width="973" height="795" alt="Screenshot 2025-10-12 092004" src="https://github.com/user-attachments/assets/d82fffee-c14a-470a-bba8-6fe98f6e2893" />
-?raw=true)
+(<img width="973" height="795" alt="Screenshot 2025-10-12 092004" src="https://github.com/user-attachments/assets/d82fffee-c14a-470a-bba8-6fe98f6e2893" />
+
 
