@@ -18,7 +18,9 @@ ELSE
  print("Access denied")  
 END IF
 
-###FlowChart : 
-(<img width="973" height="795" alt="Screenshot 2025-10-12 092004" src="https://github.com/user-attachments/assets/d82fffee-c14a-470a-bba8-6fe98f6e2893" />
+###FlowChart :
+
+<img width="341" height="751" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/97607f90-99ce-4ad0-b14c-592baddb62fc" />
+
 
 
