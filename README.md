@@ -3,7 +3,7 @@ Name : Atha Rasya Farras
 Nim : 254107020160
 Class : 1I
 
-##StudyCase 1
+## StudyCase 1
 ### Algorithm : Library System Entry
 {input "Yes" or "No" and select the condition}
 
@@ -18,11 +18,11 @@ ELSE
  print("Access denied")  
 END IF
 
-###FlowChart :
+### FlowChart :
 
 <img width="341" height="751" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/97607f90-99ce-4ad0-b14c-592baddb62fc" />
 
-##StudyCase 2 
+## StudyCase 2 
 ### Algorithm : Campus WiFi Access System
 {input user type and credits}
 
@@ -46,7 +46,7 @@ ELSE IF (userType == "student") THEN
     print("Access denied")  
 END IF
 
-###FlowChart : 
+### FlowChart : 
 
 <img width="549" height="871" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/4f1f92d3-397d-44dd-9ca0-d07054e61e75" />
 
